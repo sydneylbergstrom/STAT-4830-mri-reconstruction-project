@@ -16,7 +16,7 @@ This project evaluates image reconstruction from undersampled k-space measuremen
 
 
 ---
-See the [full final report](docs/assignments/STAT 4830 Final Report.pdf) for detailed methodology and results.
+See the [full final report](docs/assignments/STAT_4830_Final_Report.pdf) for detailed methodology and results.
 
 ## Repository Contents
 
