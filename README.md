@@ -4,6 +4,11 @@
 Aaron Meslin, Amy Zhou, Suzanna Semaan, Sydney Bergstrom
 
 ---
+> **Team project — STAT 4830, Spring 2026.** Built with Aaron Meslin, Amy Zhou, 
+> and Suzanna Semaan. My primary contributions: the math/optimization formulation 
+> (kernel-based reconstruction as constrained optimization over k-space), all of 
+> the general image reconstruction work (Oxford-IIIT Pet dataset), the MRI 
+> diffusion model implementation, and the original residual neural network setup.
 
 ## Overview
 
