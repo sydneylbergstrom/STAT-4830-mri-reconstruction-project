@@ -26,7 +26,7 @@ Key finding: zero-filled FFT + residual CNN was the strongest approach at **34.1
 
 ---
 
-### `Multi_Slice_All_Metrics_SSIM_Optimized_BUGFIXED`
+### `Multi_Slice_All_Metrics_SSIM_Optimized`
 Notebook for multi-slice MRI reconstruction using the **UPenn-GBM Cancer Imaging Archive**. Covers:
 
 - Multi-slice kernel hyperparameter tuning (kernel type, width, number of kernels, TV regularization weight) optimized over both MSE and SSIM
